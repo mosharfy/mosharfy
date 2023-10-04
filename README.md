@@ -17,7 +17,7 @@ I'm a passionate learner and explorer of system administration, cybersecurity, a
 ## 📫 How to reach me
 
 - You can find me on [LinkedIn](https://www.linkedin.com/in/mo-sharfy/) 
-- You can also email me at mo.sharfy@gmail.com.
+- You can also email me at mosharfy@gmail.com.
 
 ## 📝 What I write about
 
